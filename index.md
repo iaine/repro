@@ -14,4 +14,6 @@ FIXME: home page introduction
 > FIXME
 {: .prereq}
 
+Now to update the lesson from existing work
+
 {% include links.md %}
